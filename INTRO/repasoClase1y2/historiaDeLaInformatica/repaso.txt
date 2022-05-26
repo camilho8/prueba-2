@@ -1,0 +1,8 @@
+Todo comenzo en el año 1122 a.C. con la invencion de abaco
+Luego en el año 1642 d.C. Pascal inventa la primera calculadora (llamada pascalina)
+Luego en el año 1801 d.C. Joseph Jacquard inventa las tarjetas perforadas en las que se almacenaba información para crear diseños de telas
+Luego entre los años 1833 y 1842 Charles Babbage crea la primera computadora con el primer algoritmo ideado por Ada Lovelace
+En el año 1936 Alan Touring diseña una maquina que logra ejecutar programas almacenados con la intencion de decifrar los mensajes alemanes en la 2da guerra mundial
+Luego en el año 1943 se crea la primera computadora llamada ENIAC que era operada por un grupo de mujeres llamadas "las chicas del refrigerador"
+Dos años mas tarde Von Newman diseña una arquitectura que se utiliza hasta hoy de como una computadora debe ser armada para optimizar sus recursos al maximo
+y despues de esto encontramos un progreso en las computadoras hasta como las conocemos el dia de hoy

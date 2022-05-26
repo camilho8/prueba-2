@@ -1,0 +1,2 @@
+Git Bash es una aplicación de terminal que se utiliza con un sistema operativo mediante comando escritos
+Vscode es un IDE desarrollado por microsoft para la creacion y desarrollo de nuestros programas y apps  
